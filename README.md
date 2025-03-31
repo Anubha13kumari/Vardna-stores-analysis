@@ -70,4 +70,4 @@ Amazon,Flipkart and Mntra channels are max contributing (approx 80%)
 	      Target *Women* customers of ** age group(30-49 yrs)** living in *Maharashtra , Karnataka and Uttar Pradesh* by showing ads/offers/coupons available on *Amazon,Flipkart and Mntra*.
 
 
-       https://github.com/Anubha13kumari/Vardna-stores-analysis/blob/main/vardnastore.png
+Project link : https://github.com/Anubha13kumari/Vardna-stores-analysis/blob/main/vardnastore.png
