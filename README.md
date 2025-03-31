@@ -1,6 +1,4 @@
 # Vardna-stores-analysis
-
-# Vardna-stores-analysis
    
 # Step 1:
 Download the Vardna stores dataset from Kaggle and open it in Excel.
